@@ -1,0 +1,14 @@
+{
+  "en": {
+    "mistExtension.entry.name": "'Mist",
+    "mistExtension.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "mistExtension.entry.name": "'Mist",
+    "mistExtension.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "mistExtension.entry.name": "'Mist",
+    "mistExtension.entry.description": "かくちょうきのうのせつめい"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "en": {
+    "mistExtension.name": "'Mist",
+    "mistExtension.doIt": "do it [SCRIPT]"
+  },
+  "ja": {
+    "mistExtension.name": "'Mist",
+    "mistExtension.doIt": "[SCRIPT] を実行する"
+  },
+  "ja-Hira": {
+    "mistExtension.name": "'Mist",
+    "mistExtension.doIt": "[SCRIPT] をじっこうする"
+  }
+}
